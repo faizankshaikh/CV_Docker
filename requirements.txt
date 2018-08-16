@@ -24,7 +24,7 @@ jupyter==1.0.0
 jupyter-client==5.2.3
 jupyter-console==5.2.0
 jupyter-core==4.4.0
-Keras==2.1.6
+Keras==2.2
 Keras-Applications==1.0.2
 Keras-Preprocessing==1.0.1
 keras-resnet==0.1.0
@@ -40,7 +40,7 @@ nbconvert==5.3.1
 nbformat==4.4.0
 networkx==2.1
 notebook==5.5.0
-numpy==1.14.5
+numpy==1.15
 olefile==0.45.1
 pandas==0.23.3
 pandocfilters==1.4.2
